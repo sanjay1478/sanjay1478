@@ -1,18 +1,160 @@
-# 💫 About Me:
-I'm Sanjay, currently pursuing a Bachelor of Engineering in Computer Science and Engineering. I have a strong interest in software development, coding, and exploring new technologies. I'm actively looking for job opportunities where I can apply my knowledge, grow my skills, and contribute to real-world projects. I'm a quick learner, a team player, and always excited to take on new challenges in the tech industry.<br><br>
+# 👋 Hi, I'm U. Sanjay
 
+### ☁️ Cloud & DevOps Enthusiast | 🐍 Python Developer | 🌐 Networking | AWS | Linux | CCNA
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaysanjay4012@gmail.com) 
+I am a Computer Science and Engineering student with a strong interest in Cloud Computing, AWS, Linux, DevOps, Networking, and Python development.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjay1478&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanjay1478&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay1478&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy building practical projects, exploring cloud technologies, and continuously improving my technical skills through hands-on learning, internships, training, and project development.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjay1478&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Career Objective
+
+To build a successful career in the IT industry by applying my knowledge of Python, AWS, Cloud Computing, Linux, DevOps, Networking, and Web Technologies while continuously learning and developing innovative technical solutions.
+
+---
+
+## ☁️ Cloud & DevOps
+
+* AWS
+* Cloud Computing Fundamentals
+* AWS Cloud Foundations
+* Linux Administration
+* DevOps Fundamentals
+* Git & GitHub
+
+---
+
+## 🐍 Programming & Web Technologies
+
+* Python
+* HTML
+* CSS
+* SQL
+
+---
+
+## 🌐 Networking
+
+* CCNA Fundamentals
+* Networking Fundamentals
+* Cloud Networking Fundamentals
+* Linux Administration Fundamentals
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category          | Technologies               |
+| ----------------- | -------------------------- |
+| Programming       | Python                     |
+| Web               | HTML, CSS                  |
+| Database          | SQL                        |
+| Cloud             | AWS, Cloud Computing       |
+| Networking        | CCNA Fundamentals          |
+| Operating Systems | Linux, Windows             |
+| Version Control   | Git, GitHub                |
+| Development       | VS Code                    |
+| Productivity      | MS Word, Excel, PowerPoint |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔬 Advanced Skin Disease Detection System
+
+A skin disease detection system designed to identify diseases from skin images and provide disease information along with doctor reference and contact details for medical consultation.
+
+**Focus:** AI / Machine Learning / Image Analysis
+
+---
+
+### 🚆 Online Railway Reservation System
+
+A web-based railway reservation system that allows users to search trains, book tickets, and manage reservations efficiently.
+
+**Focus:** Web Development / Database / Reservation Management
+
+---
+
+### 💻 IT Startup Company Portfolio
+
+A responsive portfolio website designed to showcase company services, projects, technologies, and contact information.
+
+**Focus:** Web Development / Responsive Design
+
+---
+
+## 💼 Internship & Training
+
+* **Web Development Intern** — Kinfo Cloud Tech Solution Pvt. Ltd.
+* **Web Development Intern** — CodSoft Private Limited
+* **Full Stack Development Intern** — NoviTech R&D Private Limited
+* **Cloud Computing with CCNA** — Besant Technologies
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science and Engineering**
+Bharathidasan Engineering College
+2022 – 2026 | CGPA: 7.5
+
+---
+
+## 📜 Certifications & Training
+
+* Python Programming — Besant Technologies
+* Linux Administration — Besant Technologies
+* Cloud Computing — Besant Technologies & AWS Skill Builder
+* AWS Cloud Fundamentals — Besant Technologies
+* DevOps Fundamentals — Besant Technologies
+* CCNA Fundamentals — Besant Technologies
+* Full Stack Development — NoviTech R&D Private Limited
+* Web Development Internship — Kinfo Cloud Tech Solution Pvt. Ltd. & CodSoft
+
+---
+
+## 🏆 Achievements
+
+* Completed professional training in Python, Linux, AWS, Cloud Computing, DevOps, and CCNA.
+* Completed AWS Cloud Foundations learning through AWS Skill Builder.
+* Developed foundational knowledge in Cloud Computing, Networking, Linux Administration, and DevOps practices.
+* Continuously improving technical skills through hands-on learning and project-based development.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjay1478&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay1478&layout=compact&theme=github_dark" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+I continuously work on improving my programming, cloud, networking, and DevOps skills through practical projects and hands-on learning.
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/sanjayudhayakumar/)
+* 🌐 [Portfolio](https://sanjayudhayakumar.netlify.app/)
+* 🐙 [GitHub](https://github.com/sanjay1478)
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [sanjayu1722@gmail.com](mailto:sanjayu1722@gmail.com)
+
+📍 **Tirupattur (Dt), Tamil Nadu, India**
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+I'm continuously learning, building, and exploring new technologies in Cloud Computing, DevOps, Python, and Networking.
