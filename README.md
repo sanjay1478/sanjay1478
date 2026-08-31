@@ -1,94 +1,84 @@
 # 👋 Hi, I'm U. Sanjay
 
-### ☁️ Cloud & DevOps Enthusiast | 🐍 Python Developer | 🌐 Networking | 💻 Web Development
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Enthusiast;AWS+%7C+Linux+%7C+Networking;Python+Developer;Web+Development+Enthusiast;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Python+Developer;AWS+%7C+Linux+%7C+CCNA;Web+Development+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <a href="https://github.com/sanjay1478">
+    <img src="https://img.shields.io/github/followers/sanjay1478?label=Followers&style=flat-square"/>
+  </a>
+  <a href="https://github.com/sanjay1478?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sanjay1478?affiliations=OWNER&style=flat-square"/>
+  </a>
+  <a href="https://sanjayudhayakumar.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **U. Sanjay**, a Computer Science and Engineering graduate with a strong interest in **Cloud Computing, AWS, Linux, DevOps, Networking, Python, and Web Development**.
+I'm **U. Sanjay**, a Computer Science and Engineering graduate interested in building a career in **Cloud Computing, DevOps, AWS, Networking, Python, and Web Development**.
 
-I enjoy building practical projects, exploring modern technologies, and improving my technical skills through hands-on learning, internships, certifications, and project development.
+I enjoy learning by building practical projects and working with technologies that help design, deploy, and maintain reliable applications.
 
-🎯 Currently focused on building strong foundations in **Cloud, DevOps, Python, Networking, and Web Technologies**.
+```text
+☁️ Cloud        → AWS | Cloud Fundamentals
+⚙️ DevOps       → Git | GitHub | DevOps Fundamentals
+🐧 Systems      → Linux | Windows
+🌐 Networking   → CCNA | TCP/IP | DNS | Routing & Switching
+🐍 Programming  → Python
+💻 Web          → HTML | CSS | JavaScript
+🗄️ Database     → SQL | MySQL
+```
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Focus
 
-To build a successful career in the IT industry by applying my knowledge of **Cloud Computing, AWS, Linux, DevOps, Networking, Python, and Web Technologies**, while continuously learning and contributing to innovative technical solutions.
+I'm currently building my skills toward entry-level roles such as:
+
+* ☁️ Cloud / AWS Associate
+* ⚙️ Junior DevOps Engineer
+* 🌐 Cloud Support / Technical Support
+* 🐧 Linux / System Support
+* 💻 Junior Web Developer
+* 🐍 Python Developer
+
+My goal is to strengthen my **cloud, networking, Linux, programming, and deployment fundamentals** through real-world projects and continuous learning.
 
 ---
 
-## ☁️ Cloud & DevOps
+# 🧰 Technical Skills
+
+### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-Fundamentals-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-orange?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux" />
 </p>
 
-* AWS Cloud Fundamentals
-* Cloud Computing
-* Linux Administration
-* DevOps Fundamentals
-* Git & GitHub
-* Cloud Networking Fundamentals
+**AWS • Cloud Computing • Docker • Kubernetes Fundamentals • Linux • Git • GitHub • DevOps Fundamentals**
 
----
-
-## 🐍 Programming & Web Technologies
+### 💻 Development
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-Web-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-Web-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" />
 </p>
 
-* Python
-* HTML5
-* CSS3
-* SQL
-* Web Development Fundamentals
+**Python • HTML5 • CSS3 • JavaScript • SQL • MySQL**
 
----
+### 🌐 Networking
 
-## 🌐 Networking
-
-<p>
-  <img src="https://img.shields.io/badge/CCNA-Networking-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DNS-Networking-green?style=for-the-badge"/>
-</p>
-
-* CCNA Fundamentals
-* Networking Fundamentals
-* TCP/IP
-* DNS
-* Routing & Switching
-* Cloud Networking
-
----
-
-## 🛠️ Tech Stack
-
-| Category             | Technologies                           |
-| -------------------- | -------------------------------------- |
-| 💻 Programming       | Python                                 |
-| 🌐 Web               | HTML, CSS, JavaScript                  |
-| 🗄️ Database         | SQL, MySQL                             |
-| ☁️ Cloud             | AWS, Cloud Computing                   |
-| ⚙️ DevOps            | Git, GitHub, DevOps Fundamentals       |
-| 🌐 Networking        | CCNA, TCP/IP, DNS, Routing & Switching |
-| 🐧 Operating Systems | Linux, Windows                         |
-| 🧰 Tools             | VS Code, GitHub                        |
-| 📊 Productivity      | MS Word, Excel, PowerPoint             |
+```text
+CCNA Fundamentals
+TCP/IP
+DNS
+Routing & Switching
+Cloud Networking Fundamentals
+Network Troubleshooting Fundamentals
+```
 
 ---
 
@@ -96,95 +86,122 @@ To build a successful career in the IT industry by applying my knowledge of **Cl
 
 ## 🔬 Advanced Skin Disease Detection System
 
-An AI-based system designed to analyze skin images and provide disease-related information using deep learning and image analysis techniques.
+AI-based skin image analysis system developed using deep learning techniques.
 
-**Technologies:** Python, Flask, TensorFlow, EfficientNetB0, Grad-CAM
+**Tech Stack**
 
-**Focus:** AI / Machine Learning / Image Analysis
+`Python` `Flask` `TensorFlow` `EfficientNetB0` `Grad-CAM`
+
+**Key Focus**
+
+* Image-based disease classification
+* Deep learning model integration
+* Grad-CAM visualization
+* Flask-based application
+* Medical information presentation
 
 ---
 
 ## 🚆 Online Railway Reservation System
 
-A web-based railway reservation system that enables users to search trains, manage reservations, and handle booking information efficiently.
+Web-based railway reservation application designed to manage train search and reservation workflows.
 
-**Technologies:** HTML, CSS, JavaScript, SQL
+**Tech Stack**
 
-**Focus:** Web Development / Database / Reservation Management
+`HTML` `CSS` `JavaScript` `SQL`
+
+**Key Focus**
+
+* Train search
+* Reservation workflow
+* Database integration
+* User-oriented web interface
 
 ---
 
 ## 💻 IT Startup Company Portfolio
 
-A responsive website designed to showcase company services, projects, technologies, and contact information.
+Responsive company portfolio website created to present services, projects, technologies, and contact information.
 
-**Technologies:** HTML, CSS, JavaScript
+**Tech Stack**
 
-**Focus:** Web Development / Responsive Design
+`HTML` `CSS` `JavaScript`
+
+**Key Focus**
+
+* Responsive UI
+* Company presentation
+* Project showcase
+* Contact section
 
 ---
 
-# 💼 Internship & Training
+# 💼 Experience & Training
 
 ### 🌐 Web Development Intern
 
 **Kinfo Cloud Tech Solution Pvt. Ltd.**
 
-### 🌐 Web Development Intern
+Focused on practical web development and project-based learning.
+
+### 💻 Web Development Intern
 
 **CodSoft Private Limited**
+
+Practical experience in web development tasks and project implementation.
 
 ### 💻 Full Stack Development Intern
 
 **NoviTech R&D Private Limited**
 
+Training and practical exposure to full-stack development concepts.
+
 ### ☁️ Cloud Computing with CCNA
 
 **Besant Technologies**
+
+Training focused on cloud computing, networking, Linux, and CCNA fundamentals.
 
 ---
 
 # 🎓 Education
 
-### B.E. Computer Science and Engineering
+### B.E. — Computer Science and Engineering
 
 **Bharathidasan Engineering College**
 
-**2022 – 2026**
-
-**CGPA: 7.5**
+`2022 – 2026` • `CGPA: 7.5`
 
 ---
 
-# 📜 Certifications & Training
+# 📜 Certifications & Learning
 
-* 🐍 Python Programming — Besant Technologies
-* 🐧 Linux Administration — Besant Technologies
-* ☁️ Cloud Computing — Besant Technologies
-* ☁️ AWS Cloud Fundamentals — AWS Skill Builder
-* ⚙️ DevOps Fundamentals — Besant Technologies
-* 🌐 CCNA Fundamentals — Besant Technologies
-* 💻 Full Stack Development — NoviTech R&D Private Limited
-* 🌐 Web Development Internship — Kinfo Cloud Tech Solution Pvt. Ltd.
-* 🌐 Web Development Internship — CodSoft
-
----
-
-# 🏆 Achievements
-
-* ✅ Completed professional training in Python, Linux, AWS, Cloud Computing, DevOps, and CCNA.
-* ✅ Completed AWS Cloud Foundations learning through AWS Skill Builder.
-* ✅ Developed practical knowledge of Cloud Computing, Networking, Linux Administration, and DevOps.
-* ✅ Built multiple academic and personal projects.
-* ✅ Continuously improving technical skills through hands-on project development.
+| Area          | Learning / Training        |
+| ------------- | -------------------------- |
+| ☁️ Cloud      | AWS Cloud Fundamentals     |
+| ☁️ AWS        | AWS Skill Builder          |
+| ⚙️ DevOps     | DevOps Fundamentals        |
+| 🐧 Linux      | Linux Administration       |
+| 🌐 Networking | CCNA Fundamentals          |
+| 🐍 Python     | Python Programming         |
+| 💻 Web        | Full Stack Development     |
+| 🌐 Web        | Web Development Internship |
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjay1478&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay1478&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjay1478&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay1478&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjay1478&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -193,55 +210,99 @@ A responsive website designed to showcase company services, projects, technologi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://sanjay1478.github.io/sanjay1478/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://sanjay1478.github.io/sanjay1478/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://sanjay1478.github.io/sanjay1478/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sanjay1478/sanjay1478/gh-pages/github-contribution-grid-snake-dark.svg">
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/sanjay1478/sanjay1478/gh-pages/github-contribution-grid-snake.svg">
+
+<img
+  src="https://raw.githubusercontent.com/sanjay1478/sanjay1478/gh-pages/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake">
+```
+
   </picture>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Current Learning Roadmap
 
-I continuously work on improving my skills through:
-
-* ☁️ Cloud & AWS learning
-* 🐍 Python development
-* 🌐 Networking practice
-* ⚙️ DevOps learning
-* 💻 Web development
-* 🚀 Practical project development
+```text
+AWS Fundamentals
+      ↓
+Linux & Networking
+      ↓
+Docker & Containers
+      ↓
+CI/CD & DevOps
+      ↓
+Kubernetes
+      ↓
+AWS Cloud Projects
+      ↓
+Cloud / DevOps Career
+```
 
 ---
 
-# 🔗 Connect With Me
+# 🧠 What I'm Working On
 
-<p>
-  <a href="https://www.linkedin.com/in/sanjayudhayakumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://sanjayudhayakumar.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sanjay1478">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+* ☁️ Strengthening AWS fundamentals
+* 🐧 Improving Linux administration skills
+* 🌐 Practicing networking concepts
+* ⚙️ Learning Docker & DevOps workflows
+* ☸️ Exploring Kubernetes
+* 🐍 Building Python-based applications
+* 💻 Improving web development skills
+* 🚀 Creating practical cloud projects
+
+---
+
+# 🏆 Highlights
+
+* 🎓 B.E. Computer Science & Engineering
+* ☁️ Cloud & AWS learning experience
+* 🌐 CCNA & networking fundamentals
+* 🐧 Linux administration fundamentals
+* ⚙️ DevOps fundamentals
+* 🐍 Python development experience
+* 💻 Web development project experience
+* 🚀 Multiple academic and practical projects
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sanjayudhayakumar/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://sanjayudhayakumar.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sanjay1478">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
-
----
-
-# 📫 Contact
 
 📧 **Email:** [sanjayu1722@gmail.com](mailto:sanjayu1722@gmail.com)
 
-📍 **Tirupattur (Dt), Tamil Nadu, India**
+📍 **Tamil Nadu, India**
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 Learn • Build • Deploy • Improve
 
-**💡 Learn • Build • Deploy • Improve 🚀**
+**⭐ Thanks for visiting my profile!**
 
 </p>
